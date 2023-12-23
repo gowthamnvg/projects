@@ -26,8 +26,6 @@ const SubscriptionEntry: React.FC = () => {
             label: 'pattnam-3',
         },
     ];
-    
-
     const card = (
         <React.Fragment>
             <CardContent>
