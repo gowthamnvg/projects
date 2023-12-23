@@ -27,6 +27,7 @@ const SubscriptionEntry: React.FC = () => {
         },
     ];
     
+
     const card = (
         <React.Fragment>
             <CardContent>
