@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/cablenetwork/static/css/main.6b9c8be5.css",
-    "main.js": "/cablenetwork/static/js/main.8a618946.js",
-    "static/js/787.4ed5fc41.chunk.js": "/cablenetwork/static/js/787.4ed5fc41.chunk.js",
-    "index.html": "/cablenetwork/index.html",
-    "main.6b9c8be5.css.map": "/cablenetwork/static/css/main.6b9c8be5.css.map",
-    "main.8a618946.js.map": "/cablenetwork/static/js/main.8a618946.js.map",
-    "787.4ed5fc41.chunk.js.map": "/cablenetwork/static/js/787.4ed5fc41.chunk.js.map"
+    "main.css": "/projects/static/css/main.6b9c8be5.css",
+    "main.js": "/projects/static/js/main.e9aa66b1.js",
+    "static/js/787.4ed5fc41.chunk.js": "/projects/static/js/787.4ed5fc41.chunk.js",
+    "index.html": "/projects/index.html",
+    "main.6b9c8be5.css.map": "/projects/static/css/main.6b9c8be5.css.map",
+    "main.e9aa66b1.js.map": "/projects/static/js/main.e9aa66b1.js.map",
+    "787.4ed5fc41.chunk.js.map": "/projects/static/js/787.4ed5fc41.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6b9c8be5.css",
-    "static/js/main.8a618946.js"
+    "static/js/main.e9aa66b1.js"
   ]
 }
