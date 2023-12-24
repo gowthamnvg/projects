@@ -13,7 +13,8 @@ jobs:
   build:
 
     runs-on: ubuntu-latest
-
+    env:
+      CI: false  # Set CI to false for this job
     strategy:
       matrix:
         node-version: [20.x]
